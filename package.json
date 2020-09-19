@@ -1,7 +1,7 @@
 {
   "name": "somtodayjs",
   "version": "1.0.0",
-  "description": "A class to communicate with te somtoday API",
+  "description": "A javascript module to communicate with te somtoday API",
   "main": "somtoday.js",
   "author": "Egidius Mengelberg <hello@mengelberg.eu> (https://mengelberg.eu/)",
   "homepage": "https://github.com/egidiusmengelberg/somtoday.js",

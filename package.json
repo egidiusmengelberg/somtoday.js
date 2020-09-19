@@ -1,5 +1,5 @@
 {
-  "name": "somtodayjs",
+  "name": "@egidiusmengelberg/somtodayjs",
   "version": "1.0.0",
   "description": "A javascript module to communicate with te somtoday API",
   "main": "somtoday.js",

@@ -4,7 +4,7 @@
   "description": "A javascript module to communicate with te somtoday API",
   "main": "somtoday.js",
   "author": "Egidius Mengelberg <hello@mengelberg.eu> (https://mengelberg.eu/)",
-  "homepage": "https://github.com/egidiusmengelberg/somtoday.js",
+  "homepage": "https://github.com/egidiusmengelberg/somtoday.js#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/egidiusmengelberg/somtoday.js"

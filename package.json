@@ -1,13 +1,13 @@
 {
   "name": "@egidiusmengelberg/somtodayjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript module to communicate with te somtoday API",
   "main": "somtoday.js",
   "author": "Egidius Mengelberg <hello@mengelberg.eu> (https://mengelberg.eu/)",
   "homepage": "https://github.com/egidiusmengelberg/somtoday.js",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/egidiusmengelberg/somtoday.js"
+    "type": "git",
+    "url": "https://github.com/egidiusmengelberg/somtoday.js"
   },
   "license": "MIT",
   "dependencies": {
